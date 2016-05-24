@@ -1,0 +1,11 @@
+<DynamicWeb>
+
+
+<Sections>
+		<Menu titlex="PROFILEé" img="dat/Images/News/img1.jpg" h="COMPANY PROFILEé">ABOUT Lorené Ipsum irure dolor in reprehe in asr gh voluptate velit esse <br/>cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia soiujk deserunt mollit anim id est laborum.cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia soiujk deserunt mollit anim id est laborum.cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia soiujk deserunt mollit anim id est laborum.</Menu>
+		<Menu titlex="PEOPLE" img="dat/Images/News/img2.jpg" h="OUR PEOPLE">Sunt in culpa qui officia soiujk deserunt mollit anim id est laborum.cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia soiujk deserunt mollit anim id est laborum.cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia soiujk deserunt mollit anim id est laborum.</Menu>
+		<Menu titlex="CLIENTS" img="dat/Images/News/img3.jpg" h="OUR CLIENTS"><font color="#00CCFF">+ CLIENT NAME </font><br/>Loren Ipsum irure dolor in reprehe in asr gh voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br/><br/><font color="#00CCFF">+ CLIENT NAME </font> <br/>Asr gh voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.<br/><br/><font color="#00CCFF">+ CLIENT NAME </font> <br/>Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.<br/><br/><font color="#00CCFF">+ CLIENT NAME </font> <br/>Excepteur sint occaecat cupidatat non proident,<br/><br/><font color="#00CCFF">+ CLIENT NAME </font> <br/>Esse cillum dolore eu fugiat nulla pariatur.<br/><br/></Menu>
+		</Sections>
+
+
+</DynamicWeb>

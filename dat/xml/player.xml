@@ -1,0 +1,6 @@
+﻿<player showDisplay="yes" showPlaylist="yes" autoStart="yes">   		
+<song path="dat/music/music.mp3" title="测试音乐"/>         	
+<song path="dat/music/music1.mp3" title="测试音乐"/>	
+<song path="dat/music/music2.mp3" title="测试音乐"/>
+<song path="dat/music/music3.mp3" title="测试音乐"/>
+</player>

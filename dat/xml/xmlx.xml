@@ -1,0 +1,18 @@
+﻿<DynamicWeb>
+<Sections id="menu">
+<Menu p="15" f="News" h="LATEST NEWS">日记</Menu>
+<Menu p="25" f="About" h="ABOUT US">关于</Menu>
+<Menu p="35" f="Folio" h="PORTFOLIO">图片</Menu>
+<Menu p="45" f="Video" h="Video">视频</Menu>
+<Menu p="55" f="Contact" h="CONTACT US">联系方式</Menu>
+</Sections>
+<Welcome id="logo">	
+<info><font color="#222222">Welcome to my website</font></info>
+</Welcome>
+<Contact id="contact">
+<info>LOREN IPSUM DOLOR SIT AMET<br/>SUIT#3, ST#333, NEAR SOMETHING<br/>400000,山城<br/>中国<br/><br/>QQ: +1300299393<br/>Tel: +12345678<br/><br/>邮箱: <a href="mailto:1300299393@qq.com"><font color="#00CCFF"><u>1300299393@qq.com</u></font></a></info>
+</Contact>
+<copyInfo id="copy">
+<Info>(C) COPY RIGHT 2012年 X先生 ALL RIGHTS RESERVED.</Info>
+</copyInfo>
+</DynamicWeb>

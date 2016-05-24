@@ -1,0 +1,11 @@
+<DynamicWeb>
+
+<Sections>
+		<Menu f="identity" h="IDENTITY">IDENTITY</Menu>
+		<Menu f="development" h="DEVELOPMENT">DEVELOPMENT</Menu>
+		<Menu f="design" h="DESGIN">DESGIN</Menu>
+		<Menu f="print" h="PRINT">PRINT</Menu>
+		<Menu f="photography" h="PHOTOGRAPHY">PHOTOGRAPHY</Menu>
+</Sections>
+
+</DynamicWeb>

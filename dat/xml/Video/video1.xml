@@ -1,0 +1,25 @@
+<DynamicWeb>
+
+
+	<Data>
+	
+	<Info id="1">
+		<Menu thumb="dat/Images/Folio/thumb1.jpg" bigx="dat/Videos/demo.flv" vw="400" vh="220"/>
+		<Menu thumb="dat/Images/Folio/thumb2.jpg" bigx="dat/Videos/demo.flv" vw="400" vh="220"/>
+		<Menu thumb="dat/Images/Folio/thumb3.jpg" bigx="dat/Videos/demo.flv" vw="400" vh="220"/>
+		<Menu thumb="dat/Images/Folio/thumb4.jpg" bigx="dat/Videos/demo.flv" vw="400" vh="220"/>
+	</Info>
+
+	
+	<Info id="2">
+		<Menu thumb="dat/Images/Folio/thumb1.jpg" bigx="dat/Videos/demo.flv" vw="400" vh="220"/>
+		<Menu thumb="dat/Images/Folio/thumb2.jpg" bigx="dat/Videos/demo.flv" vw="400" vh="220"/>
+
+	</Info>
+
+
+	</Data>
+
+	
+
+</DynamicWeb>

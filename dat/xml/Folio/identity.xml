@@ -1,0 +1,24 @@
+<DynamicWeb>
+
+
+	<Data>
+	
+	<Info id="1">
+		<Menu thumb="dat/Images/Folio/thumb1.jpg" bigx="dat/Images/Folio/img1.jpg">Excepteuré sint occaecat cupidatat non proident, sunt in culpa qui officia soiujk deserunt mollit anim id est laborum.cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia soiujk deserunt mollit anim id est laborum.</Menu>
+		<Menu thumb="dat/Images/Folio/thumb2.jpg" bigx="dat/Images/Folio/img2.jpg">Loren Ipsum</Menu>
+		<Menu thumb="dat/Images/Folio/thumb3.jpg" bigx="dat/Images/Folio/img3.jpg">Loren Ipsum</Menu>
+		<Menu thumb="dat/Images/Folio/thumb4.jpg" bigx="dat/Images/Folio/img4.jpg">Loren Ipsum</Menu>
+	</Info>
+
+	
+	<Info id="2">
+		<Menu thumb="dat/Images/Folio/thumb1.jpg" bigx="dat/Images/Folio/img1.jpg">Loren Ipsum</Menu>
+		<Menu thumb="dat/Images/Folio/thumb2.jpg" bigx="dat/Images/Folio/img2.jpg">Loren Ipsum</Menu>
+	</Info>
+
+
+	</Data>
+
+	
+
+</DynamicWeb>

@@ -1,0 +1,10 @@
+<DynamicWeb>
+
+
+<Sections>
+		<Menu p="1" h="ONLINE">ONLINE</Menu>
+		<Menu p="0" h="OFFLINE">OFFLINE</Menu>
+</Sections>
+
+
+</DynamicWeb>

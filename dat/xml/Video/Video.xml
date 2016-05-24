@@ -1,0 +1,11 @@
+<DynamicWeb>
+
+<Sections>
+		<Menu f="video1" h="VIDEO HEADING1">VIDEO 1</Menu>
+		<Menu f="video2" h="VIDEO HEADING2">VIDEO 2</Menu>
+		<Menu f="video3" h="VIDEO HEADING3">DESGIN VIDEO</Menu>
+		<Menu f="video1" h="VIDEO HEADING4">PRINT VIDEO</Menu>
+		<Menu f="video2" h="VIDEO HEADING5">PHOTOGRAPHY VIDEO</Menu>
+</Sections>
+
+</DynamicWeb>
